@@ -1,10 +1,10 @@
-# Tourist Guider 🚌🚝
+# 🚝Tourist Guider 🚌
 
 Tourist Guider is a simple, beginner-friendly website built with **HTML, CSS, and JavaScript** to showcase top travel destinations and provide contact information for travel enthusiasts.
 
 ## 🌐 Live Demo
 
-Check out the live website here: [Tourist Guider Live](https://RoshanR-Git.github.io/Tourist-Guidoo-webProject/)
+Check out the live website here: [Tourist Guider Live](https://roshanr-git.github.io/Tourist-Guidoo-/)
 
 ## 🏖️ Features
 
